@@ -35,7 +35,7 @@ results.
         ./tools/do build
 
 1. Commit and issue a pull request
-1. Done!
+1. Done.
 
 ## prerequisites
 
